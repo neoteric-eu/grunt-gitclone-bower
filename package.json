@@ -1,0 +1,13 @@
+{
+  "name": "grunt-gitclone-bower",
+  "main": "tasks",
+  "version": "1.1.2",
+  "files": [
+	"tasks"
+  ],
+  "dependencies": {
+	"bluebird": "3.x",
+	"bower-registry-client": "0.3.x",
+	"lodash": "4.x"
+  }
+}
